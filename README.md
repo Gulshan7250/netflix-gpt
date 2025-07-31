@@ -2,6 +2,9 @@
 
  - Create vite@latest
  - Configured tailwindCSS
+ - Header
+ - Login Form
+ - Sign Up Form
 
 
  # Features
